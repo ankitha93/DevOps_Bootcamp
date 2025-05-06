@@ -5,3 +5,4 @@ Reviewer added, please review the content
 Understanding merge conflict
 creating a conflict
 fixing merge conflict
+fixed conflicts manually
