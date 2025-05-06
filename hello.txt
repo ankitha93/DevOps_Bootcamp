@@ -3,3 +3,4 @@ Let's start our journey here.
 Branching and merging done.
 Reviewer added, please review the content
 Understanding merge conflict
+fixing merge conflict
