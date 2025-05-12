@@ -1,2 +1,3 @@
 Hello,
-Reverting the commit
+Reverting the commit exercise.
+using git diff command.
